@@ -10,13 +10,15 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f179053a-a34f-402f-a9a4-ba0d3e2f56ef" name="Default Changelist" comment="" />
+    <list default="true" id="f179053a-a34f-402f-a9a4-ba0d3e2f56ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_3a_API_30_x86]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -29,7 +31,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nZn6TZPI9I75KzD27c8Jtdjp23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -128,6 +134,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="234" y="125" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611682926870">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="234" y="125" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1611682926870" />
     <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1611674853136">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -140,6 +150,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="259" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1611662443031" />
+    <state x="349" y="221" key="Github.ShareDialog" timestamp="1611683116451">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="349" y="221" key="Github.ShareDialog/0.0.1280.680@0.0.1280.680" timestamp="1611683116451" />
+    <state x="141" y="21" key="Github.UntrackedFilesDialog" timestamp="1611683125221">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="141" y="21" key="Github.UntrackedFilesDialog/0.0.1280.680@0.0.1280.680" timestamp="1611683125221" />
     <state width="904" height="339" key="GridCell.Tab.0.bottom" timestamp="1611677638686">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
